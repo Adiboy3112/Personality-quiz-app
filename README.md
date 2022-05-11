@@ -1,6 +1,6 @@
 # quiz_app
 
-A new Flutter project.
+This is my first basic quiz app for favourites match . I will keep updating it as i learn more
 
 ## Getting Started
 
